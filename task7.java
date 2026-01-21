@@ -1,4 +1,3 @@
-// implementation of stack LInked List
 
 class stack {
     
